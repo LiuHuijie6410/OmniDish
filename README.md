@@ -3,8 +3,8 @@
 </h3>
 
 <p align="center"> 
-<a href="https://github.com/LiuHuijie6410/OmniDish"><img alt="Build" src="https://img.shields.io/badge/GitHub-OmniDish-f8f0f0.svg"></a> 
 <a href="https://liuhuijie6410.github.io/OmniDish/"><img alt="Build" src="https://img.shields.io/badge/Project%20Page-OmniDish-yellow"></a> 
+<a href="https://github.com/LiuHuijie6410/OmniDish"><img alt="Build" src="https://img.shields.io/badge/GitHub-OmniDish-f8f0f0.svg"></a> 
 <a href="https://arxiv.org/abs/2504.09948"><img alt="Build" src="https://img.shields.io/badge/arXiv-OmniDish-da282a.svg"></a>
 <a href="https://huggingface.co/datasets/liuhuijie6410/OmniDish-Edit-70K"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-fd8b02"></a>
 <a href="https://img.shields.io/badge/PDF-Appendix-da282a.svg"><img src="https://img.shields.io/badge/PDF-Appendix-d1cebc.svg"></a>
@@ -19,8 +19,8 @@ class="center">
 </p>
 
 ## 🔥 News
-- [05/1/2025] 🔥 The [Dish Editing Dataset](https://huggingface.co/datasets/liuhuijie6410/OmniDish-Edit-70K) is released to Hugging Face.
-- [04/30/2025] 🔥 The [homepage](https://xxx) of Omni-Dish is released.
+- [05/2/2025] 🔥 The [Dish Editing Dataset](https://huggingface.co/datasets/liuhuijie6410/OmniDish-Edit-70K) is released to Hugging Face.
+- [04/30/2025] 🔥 The [homepage](https://liuhuijie6410.github.io/OmniDish/) of Omni-Dish is released.
 - [04/14/2025] 🔥 The arXiv [paper](https://arxiv.org/abs/2504.09948) of Omni-Dish is released.
 
 ## 📖 Abstract
