@@ -1,6 +1,5 @@
 
 # Omni-Dish: Photorealistic and Faithful Image Generation and Editing for Arbitrary Chinese Dishes
-<meta name="google-site-verification" content="XrwaLE0DuKIHTJTswxP3iY-FbCIwwitL1coAyUyU72c" />
 <p align="center"> 
 <a href="https://liuhuijie6410.github.io/OmniDish/"><img alt="Build" src="https://img.shields.io/badge/Project%20Page-OmniDish-yellow"></a> 
 <a href="https://github.com/LiuHuijie6410/OmniDish"><img alt="Build" src="https://img.shields.io/badge/GitHub-OmniDish-f8f0f0.svg"></a> 
