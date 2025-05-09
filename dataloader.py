@@ -47,7 +47,7 @@ if __name__ == "__main__":
 
     dataset = DishEditingDataset(
         data_root="datasets/png_imgs",
-        pair_list_file="datasets/txt.txt",
+        pair_list_file="datasets/info.txt",
     )
 
     for i in range(len(dataset)):  
